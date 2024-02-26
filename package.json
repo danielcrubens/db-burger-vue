@@ -1,0 +1,16 @@
+{
+  "name": "jsonserver-api-ibook-danielcrubens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json "
+  },
+  "repository": {
+    "type": "git"
+  },
+
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
